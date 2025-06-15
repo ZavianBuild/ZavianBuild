@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning: scikit-learn
 - 💞️ I’m looking to collaborate on: anything cool 
 
-[email](zavian31thompson@gmail.com) | [LinkedIn](www.linkedin.com/in/1zav/) 
+[Email](zavian31thompson@gmail.com) | [LinkedIn](www.linkedin.com/in/1zav/) 
